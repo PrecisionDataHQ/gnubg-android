@@ -1,0 +1,1 @@
+Build recipes and the small standalone transport, mirrored from JoyOrbit. All game rules, legal moves, scoring and match records remain in the GNU engine; the transport exposes bounded commands and line-delimited snapshots to a separate Godot process. These files are GPL-3.0-or-later.
